@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML & CSS<br>💬 Let's talk about: Programming, Linux, FOSS & Gaming :) 
+🌱 I’m currently learning HTML/CSS/JavaScript<br>💬 Let's talk about: Programming, Linux, FOSS & Gaming :) 
 
 
 ## 🌐 Socials:
