@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=045000&width=435&lines=Sveiki!;Welcome!;Willkommen!;Salut!;Bienvenido!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🌱 I’m currently learning React, Express.js && Tailwind CSS<br>💬 Let's talk about: Programming, Linux, FOSS & Gaming :) 
+🌱 I’m currently learning React, Express && Tailwind CSS<br>💬 Let's talk about: Programming, Linux, FOSS & Gaming :) 
 
 
 ## 🌐 Socials:
