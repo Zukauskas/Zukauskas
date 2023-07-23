@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=045000&width=435&lines=Sveiki!;Welcome!;Willkommen!;Salut!;Bienvenido!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🌱 I’m deepening my knowledge in Javascript <br>💬 Let's talk about: Programming, Linux, FOSS & Gaming :) 
+- 👀 I’m interested in Programming, Linux, FOSS & Gaming
+- 🌱 I’m currently learning many things :)
 
+- 📫 How to reach me? Look below or on the left :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tautzuk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tautzuk) 
