@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 👀 I’m interested in Programming, Linux, FOSS & Gaming
-- 🌱 I’m currently learning many things :)
+- 🌱 My github sees no action as I am mostly working on private company things :/
 
 - 📫 How to reach me? Look below or on the left :)
 
